@@ -1,6 +1,6 @@
 # Music Lyrics Transcriber
 
-A powerful tool to transcribe music lyrics in both Dutch and English using OpenAI's Whisper model.
+A powerful tool  to transcribe music lyrics in both Dutch and English using OpenAI's Whisper model.
 
 ## Features
 
